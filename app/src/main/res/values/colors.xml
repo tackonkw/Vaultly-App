@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Vaultly Premium Palette -->
+    <color name="midnight_blue">#050C1A</color>
+    <color name="electric_cyan">#00FBFF</color>
+    <color name="silver_blue">#A5ADBA</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Launcher -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
